@@ -1,8 +1,15 @@
 # Showcase
 This is sample code from my Data Structures course.
 
-# LinkedList.py
+# DoublyLinkedList.py
 This is a sample from a lab where I was required to implement a doubly linked list with operations including insert, deletion, addition, etc.
+
+# MixedFraction.py
+This is an object that I created for several labs. It inherits the Fraction class, not from the python standard library. I implemented class members such as numerators, denomenators, and whole numbers. The functions include rich comparison operators and overridden arithmetic operators.
+
+# Fraction.py
+This is an object that I created for labs using MixedFraction.py. The fraction class is the parent of MixedFraction and includes similar class members like numerators and denominators. It includes rich comparison operators and overridden arithetic operators.
+
 
 
 
