@@ -10,6 +10,14 @@ This is an object that I created for several labs. It inherits the Fraction clas
 # Fraction.py
 This is an object that I created for labs using MixedFraction.py. The fraction class is the parent of MixedFraction and includes similar class members like numerators and denominators. It includes rich comparison operators and overridden arithetic operators.
 
+# cStack.py
+
+Here I implemented the stack data structure built on top of a list. I include functionallities such as peek, pop, and push.
+
+# cQueue.py
+
+Here I implemented the queue data structure built on top of a list. I include functionalities such as enqueue and dequeue.
+
 
 
 
