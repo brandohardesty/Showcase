@@ -24,7 +24,13 @@ This is an implementation of a binary heap structure. I use this structure for b
 
 # InfixPostfix.py
 
-In this lab, I had to convert infix expressions to postfix expressions and then further evaluate them in another file Postfixeval.py
+In this lab, I had to convert infix expressions to postfix expressions and then further evaluate them in another file Postfixevaluation.py
+
+# Postfixevaluation.py
+
+Here I evaluate the postfix expressions created in InfixPostfix.py
+
+
 
 
 
