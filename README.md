@@ -18,6 +18,10 @@ Here I implemented the stack data structure built on top of a list. I include fu
 
 Here I implemented the queue data structure built on top of a list. I include functionalities such as enqueue and dequeue.
 
+# binheap.py
+
+This is an implementation of a binary heap structure. I use this structure for building a priority queue in lab 7 to decrease the big o on ciertian operations. 
+
 
 
 
