@@ -22,6 +22,10 @@ Here I implemented the queue data structure built on top of a list. I include fu
 
 This is an implementation of a binary heap structure. I use this structure for building a priority queue in lab 7 to decrease the big o on ciertian operations. 
 
+# InfixPostfix.py
+
+In this lab, I had to convert infix expressions to postfix expressions and then further evaluate them in another file Postfixeval.py
+
 
 
 
